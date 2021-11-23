@@ -9,14 +9,22 @@ header {
 }  
  
 #logo { 
-    height: 200px; 
+    height: 150px; 
     margin: 0 0 0 18px; 
     padding: 30px; 
-}
+} 
+ 
+#titulo-curso {  
+    height: 50px; 
+    margin: 0 0 0 18px; 
+    padding: 18px;  
+    font-size: 30px; 
+    font-weight: bold;  
+} 
 
 nav { 
     position: absolute ; 
-    top: 130px; 
+    top: 150px; 
     right: 0;
 }
  
