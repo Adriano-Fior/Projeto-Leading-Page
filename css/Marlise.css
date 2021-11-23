@@ -9,12 +9,14 @@ header {
 }  
  
 #logo { 
-    height: 250px;
+    height: 200px; 
+    margin: 0 0 0 18px; 
+    padding: 30px; 
 }
 
 nav { 
     position: absolute ; 
-    top: 170px; 
+    top: 130px; 
     right: 0;
 }
  
@@ -81,13 +83,13 @@ nav a:hover{
     font-weight: bold; 
     padding: 20px; 
     text-decoration: none; 
-    color: black;
-    
+    color: black;   
 } 
 .beneficios-curso{  
     font-size: 22px;  
     color: black;  
     line-height: 22px; 
-    padding: 20px;
+    padding: 20px; 
+
 }
 
