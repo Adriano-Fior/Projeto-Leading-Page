@@ -34,3 +34,16 @@
 	padding: 39px 0;
 
 }
+
+#quem-trabalha-imagem {
+	width: 100%;
+}
+
+#texto-quem-trabalha {
+	display: inline-block;
+	text-align: justify;
+	width: 100%;
+	margin-right: 15%;
+	font-size: 22px;
+	padding: 13px 0;
+}
