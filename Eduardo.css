@@ -47,3 +47,15 @@
 	font-size: 22px;
 	padding: 13px 0;
 }
+
+#designer-fotografos {
+	width: 100%;
+}
+
+#texto-designer-fotografos {
+	display: inline-block;
+	text-align: justify;
+	width: 100%;
+	margin-right: 15%;
+	font-size: 22px;
+}
