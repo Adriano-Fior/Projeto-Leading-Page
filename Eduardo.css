@@ -20,3 +20,17 @@
 	border: 2px solid #000000;
 	border-radius: 10px;
 }
+
+#desbravadores-imagem {
+	width: 100%;
+}
+
+#texto-desbravadores {
+	display: inline-block;
+	text-align: justify;
+	width: 100%;
+	margin-right: 15%;
+	font-size: 22px;
+	padding: 39px 0;
+
+}
