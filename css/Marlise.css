@@ -63,25 +63,25 @@ nav a:hover{
 }  
  
 .segundo-titulo {
-     font-size: 31px; 
+     font-size: 35px; 
      font-weight: bold;  
      padding: 30px;  
 } 
  
 .terceiro-titulo { 
-    font-size: 20px; 
+    font-size: 27px; 
     font-weight: bold; 
     padding: 20px; 
     text-decoration: none; 
     color: black;
 } 
 
-.texto { 
-    font-weight: bold;  
-    font-size: 22px;  
+.texto {  
+    font-size: 25px;  
     color: black;  
-    line-height: 22px; 
+    line-height: 52px; 
     padding: 20px; 
+    font-family: Arial, Helvetica, sans-serif; 
     
 }  
  
@@ -92,17 +92,17 @@ nav a:hover{
 }
 
 .quarto-titulo { 
-    font-size: 20px; 
+    font-size: 27px; 
     font-weight: bold; 
-    padding: 20px; 
+    padding: 10px; 
     text-decoration: none; 
     color: black;   
 } 
 .beneficios-curso{  
-    font-size: 22px;  
+    font-size: 27px;  
     color: black;  
-    line-height: 22px; 
-    padding: 20px; 
-
+    line-height: 52px; 
+    padding: 20px;  
+    
 }
 
