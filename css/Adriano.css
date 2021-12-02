@@ -1,0 +1,48 @@
+#secao-contato{
+	background: #9BD6DB;
+	padding: 20px ;
+}
+
+.titulo{
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+.contatos h6 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.contatos li{
+	background: #FFFFFF;
+	display: inline-block;
+	text-align: center;
+	width: 280px;
+	vertical-align: top;
+	margin: 10px 20px 1.5%;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 20px;
+}
+
+.contatos  img {
+	width: 80%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+footer {
+	text-align: center;
+	background: #113355;
+	padding: 40px 0;
+}
+footer img {
+	width: 10%;
+	padding-top: 10px;
+}
+
+.copyrigth {
+	color: #FFEEDD;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
