@@ -1,0 +1,112 @@
+header { 
+    background: url(../img/fundo-lp.jpg) no-repeat; 
+    background-size: cover; 
+}   
+ 
+.caixa {  
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+}  
+ 
+#logo { 
+    height: 150px; 
+    margin: 0 0 0 18px; 
+    padding: 30px; 
+} 
+ 
+#titulo-curso { 
+    height: 50px; 
+    margin: 0 0 0 18px; 
+    padding: 18px;  
+    font-size: 36px; 
+    font-weight: bold;   
+    color: white; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-shadow: 4px 4px 10px black;
+}
+    
+
+nav { 
+    position: absolute ; 
+    top: 150px; 
+    right: 0;
+}
+ 
+nav li { 
+    display:inline-block; 
+    margin: 0 0 0 18px;  
+    text-shadow: 4px 4px 10px black;
+        
+}
+ 
+nav a { 
+   text-transform: uppercase;  
+   font-weight: bold; 
+   font: size 50px; 
+   text-decoration: none; 
+   color: white; 
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}  
+ 
+nav a:hover{ 
+    color: #C78C19; 
+    text-decoration: underline;
+}
+ 
+.banner{ 
+    height: 200px; 
+    margin: 0 0 0 18px; 
+    padding: 25px;  
+    margin-top: 35px;
+}  
+ 
+#secao-sobre { 
+    text-align: center;  
+    background: #B0C4DE;
+}  
+ 
+.segundo-titulo {
+     font-size: 35px; 
+     font-weight: bold;  
+     padding: 30px;  
+} 
+ 
+.terceiro-titulo { 
+    font-size: 27px; 
+    font-weight: bold; 
+    padding: 20px; 
+    text-decoration: none; 
+    color: black;
+} 
+
+.texto {  
+    font-size: 25px;  
+    color: black;  
+    line-height: 52px; 
+    padding: 20px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}  
+ 
+.video {  
+    height: 300px;
+    padding: 30px; 
+    margin-top: 20px;
+}
+
+.quarto-titulo { 
+    font-size: 27px; 
+    font-weight: bold; 
+    padding: 10px; 
+    text-decoration: none; 
+    color: black;   
+} 
+.beneficios-curso{  
+    font-size: 27px;  
+    color: black;  
+    line-height: 52px; 
+    padding: 20px;  
+    
+}
+
