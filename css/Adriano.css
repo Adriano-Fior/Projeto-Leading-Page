@@ -1,12 +1,12 @@
 #secao-contato{
-	background: #B0C4DE;
+	background: #9BD6DB;
 	padding: 20px ;
 }
 
 .titulo{
 	font-size: 30px;
 	font-weight: bold;
-	text-align: center; 
+	text-align: center;
 }
 .contatos h6 {
 	font-size: 16px;
@@ -16,7 +16,7 @@
 	background: #FFFFFF;
 	display: inline-block;
 	text-align: center;
-	width: 260px;
+	width: 280px;
 	vertical-align: top;
 	margin: 10px 20px 1.5%;
 	padding: 20px 20px;
