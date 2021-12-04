@@ -1,14 +1,20 @@
 .titulo {
-	text-align: center;
+	text-align: center; 
+	font-size: 22px; 
+	background: #B0C4DE;   
+	padding: 20px; 
+	
 }
 
 .para-quem {
 	width: 100%;
 	margin: 0 auto;
-	padding: 50px 0;
+	padding: 50px 0; 
+	background: #B0C4DE;  
+
 }
 
-.para-quem li {
+.para-quem li { 
 	list-style-type: none;
 	display: inline-block;
 	text-align: center;
@@ -18,8 +24,10 @@
 	padding: 30px 20px;
 	box-sizing: border-box;
 	border: 2px solid #000000;
-	border-radius: 10px;
+	border-radius: 10px; 
+	background-color: #FFf4D9;	
 }
+
 
 #desbravadores-imagem {
 	width: 100%;
@@ -31,8 +39,7 @@
 	width: 100%;
 	margin-right: 15%;
 	font-size: 22px;
-	padding: 39px 0;
-
+	padding: 39px 0;  
 }
 
 #quem-trabalha-imagem {
