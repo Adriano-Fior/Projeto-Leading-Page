@@ -1,5 +1,6 @@
 #secao-contato{
 	background: #B0C4DE;
+	text-align: center;
 	padding: 20px ;
 }
 
@@ -16,7 +17,7 @@
 	background: #FFFFFF;
 	display: inline-block;
 	text-align: center;
-	width: 280px;
+	width: 260px;
 	vertical-align: top;
 	margin: 10px 20px 1.5%;
 	padding: 20px 20px;
